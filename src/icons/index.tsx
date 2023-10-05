@@ -1,0 +1,1 @@
+export { LogoSplashScreen } from './LogoSplashScreen';

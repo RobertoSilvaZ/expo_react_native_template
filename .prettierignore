@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+npm-debug.log.*
+
+coverage
+node_modules
+
+package.json
+package-lock.json
+
+.vscode
+
+# OSX
+.DS_Store
+
+# App packaged
+release
+dist
+dll
